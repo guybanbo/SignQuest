@@ -1,0 +1,17 @@
+mediapipe==0.10.14
+tensorflow==2.17.0
+tk==0.1.0
+keras==3.5.0
+keras-tuner==1.4.7
+customtkinter==5.2.2
+ctktable==1.1
+pymongo==4.8.0
+ctkmessagebox==2.7
+tkvideoplayer==2.8
+tkvideo==0.1
+tkintervideo==0.0.2
+opencv-python==4.10.0.84
+opencv-contrib-python==4.10.0.84
+matplotlib==3.7.0
+scikit-learn==1.2.1
+pillow==9.5.0
